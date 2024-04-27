@@ -1,0 +1,6 @@
+["At 0 : 14 I swear I saw a Starbucks . THEY ' RE EVERYWHERE ! ! ! ! !", [26, 34, "corporation"]]
+["I burst out laughing when the girl came in , everything went quiet and then the \" we tried \" appeared : D", [82, 83, "group"]]
+["Jamaica is a stupid idiot", [0, 6, "location"]]
+["the biggest ship on Earth is the Queen Mary 2 and plz go on it please \ud83d\ude00 \ud83d\ude00", [20, 24, "location"], [33, 44, "product"]]
+["Wizards just channeled their inner GS to blow a 20 point lead", [0, 6, "creative-work"]]
+["Dreymond , so much better player than LeQueen , complete pkg", [0, 7, "person"], [38, 44, "person"]]

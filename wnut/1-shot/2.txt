@@ -1,0 +1,5 @@
+["This guy needs his own show on Discivery Channel !", [31, 47, "corporation"]]
+["Where are the Martinez twins", [14, 27, "group"]]
+["That old map does say New Orleans Square just above Haunted House .", [22, 39, "location"], [52, 64, "location"]]
+["Happy New year Amber , I love your videos of your master as you catch him . I am now a member of the Vizsla Face Book page and with luck have the friend ship of a Vizsla this year to run with me .", [15, 19, "person"], [108, 116, "product"]]
+["please upload * desi boys *", [16, 24, "creative-work"]]

@@ -1,0 +1,5 @@
+["Blizzard I completed the challenges for the oni genji and dva but did n ' t get it on overwatch can you help ?", [0, 7, "corporation"], [44, 52, "product"], [58, 60, "product"], [86, 94, "product"]]
+["RIP CHIEFS .", [4, 9, "group"]]
+["How people ' s memory is short . Britian went to war for Poland and then helped save Europe . This bankrupted Britian and this is how they treat us", [33, 39, "location"], [57, 62, "location"], [85, 90, "location"], [110, 116, "location"]]
+["This is just a info about Deadpool . Most of this shit you can find on a wiki .", [26, 33, "creative-work"], [73, 76, "creative-work"]]
+["My name is Nathan", [11, 16, "person"]]

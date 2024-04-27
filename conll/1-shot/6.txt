@@ -1,0 +1,2 @@
+["Earlier Russian news reports had said Yeltsin 's children and grandchildren had visited the Russian first lady but they said only that Yeltsin , on vacation outside Moscow , had spoken to her by telephone .", [8, 14, "MISC"], [38, 44, "PER"], [92, 98, "MISC"], [135, 141, "PER"], [165, 170, "LOC"]]
+["OAKLAND 7 Boston 0", [0, 6, "ORG"], [10, 15, "ORG"]]

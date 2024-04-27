@@ -1,0 +1,5 @@
+["The daytime temperature varies ; in January , it is about 24 \u00b0 C ( 75 \u00b0 F ) and in June , about 35 \u00b0 C ( 95 \u00b0 F ) .", [0, 22, "abstract"], [36, 42, "time"], [46, 47, "abstract"], [58, 63, "quantity"], [67, 72, "quantity"], [83, 86, "time"], [96, 101, "quantity"], [105, 110, "quantity"]]
+["It often nests in tree stumps or under rocks and foraging workers can sometimes be spotted climbing trees .", [0, 1, "animal"], [18, 28, "person"], [39, 43, "object"], [49, 64, "animal"], [100, 104, "plant"]]
+["Cook the quinoa .", [5, 14, "substance"]]
+["We 're quite far from our goals currently , but we take comfort in the fact that every month wikiHow gets noticeably better and larger", [0, 1, "organization"], [22, 30, "event"], [48, 49, "organization"], [67, 74, "abstract"], [81, 133, "abstract"]]
+["Space Shuttle Endeavour , which will launch on STS-134 at the end of the month on April 29 , will be sent to the California Science Center in Los Angeles , California following its retirement .", [0, 22, "object"], [47, 53, "event"], [82, 89, "time"], [113, 137, "place"], [142, 165, "place"], [177, 190, "event"]]

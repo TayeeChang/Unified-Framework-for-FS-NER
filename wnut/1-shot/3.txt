@@ -1,0 +1,4 @@
+["\" Do you think that teens thought Chik- Fil- A was lit ? \" \" I mean , it depends on how lit homophobia is . \"", [34, 45, "corporation"]]
+["Yoh man you fellas have got to review probably thee most viby ( If that ' s even a word ) track to have come this year by Da L . E . S - Lifestyle ft Germini Major", [122, 133, "group"], [137, 145, "creative-work"], [150, 162, "person"]]
+["Game of Thrones is not based on earth js", [0, 14, "creative-work"], [32, 36, "location"]]
+["Super bock beer ! ! Great taste \ud83d\ude0a", [0, 14, "product"]]

@@ -1,0 +1,4 @@
+["\" We could carry another 100 points lower in the Dow , \" he said . \"", [49, 51, "MISC"]]
+["Ross County 3 0 0 3 3 7 0", [0, 10, "ORG"]]
+["Zycie Warszawy said its own publisher , mineral water firm Multico , and a group headed by Polish businessman Zygmunt Solorz were forming a consortium which would offer about $ 120 million , with finance provided by BRE .", [0, 13, "ORG"], [59, 65, "ORG"], [91, 96, "MISC"], [110, 123, "PER"], [216, 218, "ORG"]]
+["LONDON 1996-08-31", [0, 5, "LOC"]]

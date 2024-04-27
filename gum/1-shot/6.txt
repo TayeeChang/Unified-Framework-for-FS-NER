@@ -1,0 +1,6 @@
+["Peppermint oil cotton balls need to be replaced after 5 - 7 days , depending upon the quantity of oil you put on it .", [0, 26, "object"], [54, 63, "time"], [82, 100, "quantity"], [102, 104, "person"], [113, 114, "object"]]
+["Drop one to two seeds into each container .", [16, 20, "plant"], [27, 40, "object"]]
+["although luminescence is common in anemone relatives , they do n't usually make light themselves .", [9, 20, "abstract"], [35, 51, "animal"], [55, 58, "animal"], [80, 84, "abstract"]]
+["It is served in a cocktail glass and topped with Godiva chocolate flakes .", [0, 1, "substance"], [16, 31, "object"], [49, 71, "object"]]
+["Cheer the team today ; ( your boys in orange and blue ) Let them hear you shout as they fight for what 's mightily due", [6, 13, "organization"], [25, 52, "organization"], [60, 63, "organization"], [70, 72, "person"], [83, 86, "organization"]]
+["Winter is definitely low season , with the occasional rainy or snowy day , but also an ideal time to save money while enjoying the city without countless other travelers and tourists .", [0, 5, "time"], [21, 30, "event"], [39, 71, "time"], [84, 96, "time"], [106, 110, "object"], [127, 134, "place"], [144, 168, "person"], [174, 181, "person"]]

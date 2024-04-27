@@ -1,0 +1,3 @@
+["Seven Iraqi men appeared in court on Saturday charged with air piracy following the hijacking to Britain of a Sudanese airliner with 199 people aboard .", [6, 10, "MISC"], [97, 103, "LOC"], [110, 117, "MISC"]]
+["Alba ( Germany ) 75 Red Star ( Yugoslavia ) 70 ( 42-41 )", [0, 3, "ORG"], [7, 13, "LOC"], [20, 27, "ORG"], [31, 40, "LOC"]]
+["A. Gurusinha run out 16", [0, 11, "PER"]]

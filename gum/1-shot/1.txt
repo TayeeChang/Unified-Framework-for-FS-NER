@@ -1,0 +1,8 @@
+["Terminals are numbered from 2 - 4 .", [0, 8, "place"], [28, 28, "quantity"], [32, 32, "quantity"]]
+["3 Pinch off flower heads .", [12, 23, "plant"]]
+["The only way to get at what 's different is to make comparisons with close relatives .", [52, 62, "abstract"], [69, 83, "animal"]]
+["The moisture in the pad will provide enough nutrients for roots to grow .", [16, 22, "plant"], [37, 52, "substance"], [58, 62, "plant"]]
+["From the later 1800s to the 1920s M\u00e9rida enjoyed prosperous boom times fueled by the henequen or sisal plant harvest , which made Yucat\u00e1n the rope maker to the world .", [5, 19, "time"], [24, 32, "time"], [34, 39, "place"], [49, 69, "time"], [81, 92, "plant"], [97, 107, "plant"], [130, 136, "place"], [138, 164, "organization"]]
+["During the summer their outdoor theatre is used for performances and \" movies in the park \" every Friday night .", [7, 16, "time"], [18, 38, "place"], [52, 63, "event"], [71, 88, "event"], [98, 109, "time"]]
+["On April 12 , 1981 , Space Shuttle Columbia lifted off from the Kennedy Space Center on STS-1 , the first space shuttle mission .", [3, 17, "time"], [21, 42, "object"], [64, 83, "place"], [88, 92, "event"], [96, 126, "event"]]
+["If they get upset , gauge their anger .", [3, 6, "person"], [26, 36, "abstract"]]

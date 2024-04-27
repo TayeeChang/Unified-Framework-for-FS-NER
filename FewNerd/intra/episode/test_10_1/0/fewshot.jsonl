@@ -1,0 +1,12 @@
+{
+    "location-road/railway/highway/transit": "location-road/railway/highway/transit",
+    "organization-education": "organization-education",
+    "location-other": "location-other",
+    "organization-other": "organization-other",
+    "organization-company": "organization-company",
+    "organization-media/newspaper": "organization-media/newspaper",
+    "location-mountain": "location-mountain",
+    "location-GPE": "location-GPE",
+    "organization-politicalparty": "organization-politicalparty",
+    "location-bodiesofwater": "location-bodiesofwater"
+}

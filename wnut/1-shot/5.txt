@@ -1,0 +1,5 @@
+["I ' ve noticed that I love A 24 movies .", [27, 30, "corporation"]]
+["THE NEW NWA ! ! ! ! kendrick and schoolboy", [8, 10, "group"], [20, 27, "person"], [33, 41, "person"]]
+["Go to Clark Airbase Hospital .", [6, 27, "location"]]
+["Anytime you build a pc with only one gpu , go mini itx .", [46, 53, "product"]]
+["this trailer was 100 time better then half girlfriend . . ! Dhoni Vs Nehra definitely it ' s a awesome movie . .", [38, 52, "creative-work"], [60, 73, "creative-work"]]

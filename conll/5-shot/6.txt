@@ -1,0 +1,8 @@
+["A policeman in the southern Belgian town of Chatelet told Reuters that thieves used a car to ram the window of an arms store in neighbouring Chatelineaux last night .", [28, 34, "MISC"], [44, 51, "LOC"], [58, 64, "ORG"], [141, 152, "LOC"]]
+["\" They have confirmed to us that Iraqi troops are taking part in the attack on Arbil ...", [33, 37, "MISC"], [79, 83, "LOC"]]
+["Australian Tom Moody took six for 82 but Chris Adams , 123 , and Tim O'Gorman , 109 , took Derbyshire to 471 and a first innings lead of 233 .", [0, 9, "MISC"], [11, 19, "PER"], [41, 51, "PER"], [65, 76, "PER"], [91, 100, "ORG"]]
+["Iranian troops on Saturday entered Kurdish-controlled northern Iraq in the wake of an assault backed by Baghdad into the region , an Iraqi Kurdish group told Reuters .", [0, 6, "MISC"], [35, 52, "MISC"], [63, 66, "LOC"], [104, 110, "LOC"], [133, 145, "MISC"], [158, 164, "ORG"]]
+["Queen of South 3 2 0 1 5 4 6", [0, 13, "ORG"]]
+["Samsung 49 5 57 .464 14 1/2", [0, 6, "ORG"]]
+["Roger Pavlik ( 15-7 ) gave up three runs and seven hits in 6 1/3 innings and became the fourth 15-game winner in the American League .", [0, 11, "PER"], [117, 131, "MISC"]]
+["Dutch police said on Friday they had found missing German girl Nicole Nichterwitz alive on a campsite in the northern city of Groningen and had arrested her aunt and companion on charges of kidnapping .", [0, 4, "MISC"], [51, 56, "MISC"], [63, 80, "PER"], [126, 134, "LOC"]]

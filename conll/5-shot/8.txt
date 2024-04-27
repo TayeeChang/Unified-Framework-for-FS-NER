@@ -1,0 +1,7 @@
+["The move to Bergamo-based Atalanta reunites Lentini , who fell out with ex-Milan coach Fabio Capello last season , with his former coach at Torino , Emiliano Mondonico .", [12, 24, "MISC"], [26, 33, "ORG"], [44, 50, "PER"], [72, 79, "MISC"], [87, 99, "PER"], [140, 145, "ORG"], [149, 166, "PER"]]
+["SOCCER - ISRAEL BEAT BULGARIA IN EUROPEAN UNDER-21 QUALIFIER .", [9, 14, "LOC"], [21, 28, "LOC"], [33, 40, "MISC"]]
+["A U.S. stage and screen director , he is best known for \" Viva Zapata \" and \" On the Waterfront \" .", [2, 5, "LOC"], [58, 68, "MISC"], [78, 94, "MISC"]]
+["The film , starring Liam Neeson and Julia Roberts , recounts the life of Michael Collins , the Irish Republican Army 's Director of Intelligence who fought for Irish independence from 1919 to 1921 .", [20, 30, "PER"], [36, 48, "PER"], [73, 87, "PER"], [95, 115, "ORG"], [160, 164, "MISC"]]
+["Partick 3 0 2 1 1 2 2", [0, 6, "ORG"]]
+["SAN DIEGO 75 60 .556 -", [0, 8, "ORG"]]
+["\" There is no doubt that Chechnya , according to OSCE principles , belongs to a state called Russia , \" he said , pointing out that Russia was an OSCE member and it was not the organisation 's policy to challenge members ' sovereignty .", [25, 32, "LOC"], [49, 52, "ORG"], [93, 98, "LOC"], [132, 137, "LOC"], [146, 149, "ORG"]]

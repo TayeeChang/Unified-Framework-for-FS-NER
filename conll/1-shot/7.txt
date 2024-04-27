@@ -1,0 +1,3 @@
+["Primary dealers immediately sold Eurodollar and bond futures , after the market on average was expecting the index to rise marginally to 51.9 from July 's 51.2 .", [33, 42, "MISC"]]
+["Cambridge United 0 Cardiff 2", [0, 15, "ORG"], [19, 25, "ORG"]]
+["Palestinian President Arafat , attacking Israel 's decision to expand Jewish settlements and its policy on Jerusalem , went before the Palestinian legislature on Wednesday to urge the two million Arabs in the West Bank and Gaza to go to the holy city .", [0, 10, "MISC"], [22, 27, "PER"], [41, 46, "LOC"], [70, 75, "MISC"], [107, 115, "LOC"], [135, 145, "MISC"], [196, 200, "MISC"], [209, 217, "LOC"], [223, 226, "LOC"]]

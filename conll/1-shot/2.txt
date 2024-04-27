@@ -1,0 +1,2 @@
+["In Jerusalem , Israeli security forces were bracing for thousands of Palestinians expected to answer Arafat 's call earlier this week to come to the city holy to Moslems , Arabs and Jews to pray in protest against Israel 's settlement policy in the West Bank and delay in peace negotiations .", [3, 11, "LOC"], [15, 21, "MISC"], [69, 80, "MISC"], [101, 106, "PER"], [162, 168, "MISC"], [172, 176, "MISC"], [182, 185, "MISC"], [214, 219, "LOC"], [249, 257, "LOC"]]
+["Melrose 107 Stirling County 10", [0, 6, "ORG"], [12, 19, "ORG"]]

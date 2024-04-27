@@ -1,0 +1,5 @@
+["I love your Tesla videos ! and the value just got higher yesterday . is it possible because of a successfull SpaceX launch or why ?", [12, 16, "product"], [109, 114, "corporation"]]
+["So many butthurt Sinophiles in the comments", [17, 26, "group"]]
+["where was it ? Turkey ?", [15, 20, "location"]]
+["that ' s a big Pac- Man", [15, 22, "creative-work"]]
+["lol hhay sometimes Beauty ' s mother reminds me of Amos from uZalo", [19, 24, "person"], [51, 54, "person"], [61, 65, "creative-work"]]

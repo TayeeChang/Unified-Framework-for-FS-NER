@@ -1,0 +1,5 @@
+["Move the finger backward to about 4 inches ( 10 cm ) away , then back again .", [0, 14, "event"], [28, 41, "quantity"], [43, 56, "place"]]
+["5 Remove the plastic wrap when the sprouts emerge .", [9, 24, "substance"], [31, 41, "plant"]]
+["This gave us the data that ants choose more medicine after they have been infected .", [0, 3, "abstract"], [10, 11, "person"], [13, 20, "abstract"], [27, 30, "animal"], [39, 51, "substance"], [59, 62, "animal"]]
+["Voters see the two major party nominees as exemplifying what is worst about their respective parties , and they want something better .", [0, 5, "person"], [11, 38, "person"], [76, 99, "organization"], [107, 110, "person"]]
+["On September 24 , 1944 , a group of Japanese ships were sunk by American warplanes in Coron waters as the ships retreated from Manila Bay .", [3, 14, "time"], [18, 21, "time"], [25, 49, "object"], [64, 97, "object"], [102, 110, "object"], [127, 136, "place"]]

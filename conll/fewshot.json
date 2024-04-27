@@ -1,0 +1,6 @@
+{
+  "PER": "person",
+  "LOC": "location",
+  "ORG": "organization",
+  "MISC": "miscellaneous"
+}

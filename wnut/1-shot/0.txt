@@ -1,0 +1,6 @@
+["sounds like united has put themselves in a very bad situation here lately . CEO might want to start looking for a job at McDonald ' s , as a server .", [12, 17, "corporation"], [121, 128, "corporation"]]
+["WE DID IT REDDIT !", [10, 15, "group"]]
+["They should have a tri tip feast since theyre in cali", [49, 52, "location"]]
+["they used Trinidad pepper", [10, 24, "product"]]
+["Did this come out after twin peaks or was it supposed to be watched before it all kicked off ?", [24, 33, "creative-work"]]
+["Marv Albert voice , \" And here comes DeFrozen ! \"", [0, 10, "person"], [37, 44, "person"]]

@@ -1,0 +1,5 @@
+["Boxers make millions . MMA fighters make peanuts , attribute that directly to dana ! He wants someone else to pay conor the big money and they \" Need \" Floyd to help them do that . dana should go back to carrying Floyds bags !", [23, 25, "corporation"], [78, 81, "person"], [152, 156, "person"], [181, 184, "person"], [213, 218, "person"]]
+["Dude should join TYT . Those guys are doing really good reporting .", [17, 19, "group"]]
+["She will serve 2 years in a minimum security Honor camp very rarely does anyone serve the first number of a sentence .", [45, 54, "location"]]
+["This is amazing ! Great Work ! Im a design student myself and use Keyshot for my rendering . What do you use for your renderings and animations ?", [66, 72, "product"]]
+["thanks for colors superheroes kids videos ! ) Like learn Colors and Numbers ! ) \ud83d\udc99 \ud83d\udc99 \ud83d\udc99", [51, 74, "creative-work"]]

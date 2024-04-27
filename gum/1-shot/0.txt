@@ -1,0 +1,5 @@
+["Mix .2 grams of luminol , 4 grams of sodium carbonate , .4 grams of copper sulfate , .5 grams of ammonium carbonate and 1 liter ( 0.3 US gal ) of distilled water in a second bowl .", [4, 160, "substance"], [162, 177, "quantity"]]
+["the best way to control these pests is to pick them off the plants by hand .", [24, 34, "animal"], [47, 50, "animal"], [56, 65, "plant"]]
+["In the past Muggle Quidditch has mainly been played at colleges in the US , but over the last few years there has been a dramatic rise in the number of community teams .", [3, 10, "time"], [12, 27, "abstract"], [55, 72, "organization"], [85, 102, "time"], [119, 166, "event"]]
+["It is in many ways the birthplace of Classical Greece , and therefore of Western civilization .", [0, 1, "place"], [23, 32, "place"], [37, 52, "time"], [73, 92, "organization"]]
+["If you can smell the cupcakes earlier , check to make sure they are n't browning earlier ( this means they 're more than ready ) .", [3, 5, "person"], [17, 28, "object"], [59, 62, "object"], [102, 105, "object"]]

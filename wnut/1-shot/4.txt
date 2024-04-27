@@ -1,0 +1,5 @@
+["Nothing But Crap news strikes again", [0, 20, "corporation"]]
+["Marcelo is the star of real madrid not ronaldo . Marcelo defend attack create beautiful chances", [0, 6, "person"], [23, 33, "group"], [39, 45, "person"], [49, 55, "person"]]
+["When you order deconstructed car at the MCM restaurant", [40, 53, "location"]]
+["Play Monopoly", [5, 12, "product"]]
+["Do something STAR WARS for May 4 . Oh , and Pat . May the forth be with you !", [13, 21, "creative-work"], [44, 46, "person"]]

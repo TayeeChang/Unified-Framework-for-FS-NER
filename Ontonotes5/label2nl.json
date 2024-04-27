@@ -1,0 +1,20 @@
+{
+    "CARDINAL": "cardinal",
+    "DATE": "date",
+    "EVENT": "event",
+    "FAC": "facility",
+    "GPE": "nation",
+    "LANGUAGE": "language",
+    "LAW": "law",
+    "LOC": "location",
+    "MONEY": "money",
+    "NORP": "country",
+    "ORDINAL": "number",
+    "ORG": "organization",
+    "PERSON": "person",
+    "PERCENT": "percent",
+    "PRODUCT": "product",
+    "QUANTITY": "quantity",
+    "TIME": "time",
+    "WORK_OF_ART": "art"
+}

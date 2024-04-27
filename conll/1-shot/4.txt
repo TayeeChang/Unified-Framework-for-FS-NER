@@ -1,0 +1,2 @@
+["Three Russian servicemen were killed on Saturday when unidentified gunmen attacked guards at an anti-aircraft installation outside Moscow , Interfax news agency said .", [6, 12, "MISC"], [131, 136, "LOC"], [140, 147, "ORG"]]
+["\" I think that , on balance , it is looking a little bit on the strong side , \" Lindsey said .", [80, 86, "PER"]]

@@ -1,0 +1,6 @@
+["We whittle that down on a Monday to about a hundred , come in Tuesday and pick an issue and brainstorm with the whole editorial staff ; all fifteen of us .", [0, 1, "person"], [11, 14, "object"], [24, 31, "time"], [36, 50, "quantity"], [62, 68, "time"], [79, 86, "abstract"], [108, 132, "person"], [136, 152, "person"]]
+["It 's best to put basil somewhere where it will get a good deal of sunshine and have well-drained soil .", [18, 22, "plant"], [40, 41, "plant"], [52, 74, "abstract"], [85, 101, "object"]]
+["4 Watch for pests and mold .", [12, 16, "animal"], [22, 25, "plant"]]
+["The islands lie 860 km east of Christchurch , in the middle of the \" Roaring Forties \" .", [0, 10, "place"], [16, 21, "quantity"], [31, 42, "place"], [67, 85, "substance"]]
+["Image : NASA", [0, 4, "object"], [8, 11, "organization"]]
+["Greek court has ruled that worshippers of the ancient Greek religion may now formally associate and worship at archeological sites .", [0, 129, "event"]]

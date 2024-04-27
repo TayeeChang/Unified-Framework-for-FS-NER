@@ -1,0 +1,4 @@
+["BASKETBALLSOCCER - TROFEJ BEOGRAD TOURNAMENT RESULTS .", [19, 43, "MISC"]]
+["Atlanta 6 CHICAGO 5 ( 2nd game )", [0, 6, "ORG"], [10, 16, "ORG"]]
+["Eric Anthony hit a pair of solo homers for the Rockies .", [0, 11, "PER"], [47, 53, "ORG"]]
+["2 - Monica Seles ( U.S. ) beat Dally Randriantefy ( Madagascar )", [4, 15, "PER"], [19, 22, "LOC"], [31, 48, "PER"], [52, 61, "LOC"]]

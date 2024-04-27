@@ -1,0 +1,7 @@
+["The visitors , seeking to restore some pride after failing to score a single goal in Euro 96 in June , repeatedly ripped through the left side of the home defence but De Wilde was able to block several sharply-angled efforts .", [85, 91, "MISC"], [167, 174, "PER"]]
+["NATO said it was closely monitoring the movement of about 75 Moslem men towards the village of Mahala in Bosnia 's Serb republic on Saturday , two days after a violent confrontation with Serbs .", [0, 3, "ORG"], [61, 66, "MISC"], [95, 100, "LOC"], [105, 110, "LOC"], [115, 118, "MISC"], [187, 191, "MISC"]]
+["Iraqi captors of Sudanese jet charged with hijack .", [0, 4, "MISC"], [17, 24, "MISC"]]
+["China 's second largest telecoms operator Unicom already has a mandate from the central government to establish 15 million new phone lines by the year 2000 , which will necessitate new trunk line systems and local distribution networks .", [0, 4, "LOC"], [42, 47, "ORG"]]
+["Surrey all-rounder Adam Hollioake was making his England debut , replacing Lancashire batsman Graham Lloyd , with seamer Peter Martin again being omitted from the 13 .", [0, 5, "ORG"], [19, 32, "PER"], [49, 55, "LOC"], [75, 84, "ORG"], [94, 105, "PER"], [121, 132, "PER"]]
+["\" I think this morning 's Canadian numbers were very supportive of narrower spreads , particularly the current account number , \" said Jim Webber , director of fixed-income research with TD Securities Inc .", [26, 33, "MISC"], [135, 144, "PER"], [187, 203, "ORG"]]
+["DETROIT 1996-08-31", [0, 6, "LOC"]]

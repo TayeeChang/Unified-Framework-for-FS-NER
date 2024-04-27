@@ -1,0 +1,13 @@
+{
+  "place": "place",
+  "event": "event",
+  "substance": "substance",
+  "time": "time",
+  "person": "person",
+  "organization": "organization",
+  "quantity": "quantity",
+  "plant": "plant",
+  "abstract": "abstract",
+  "animal": "animal",
+  "object": "object"
+}

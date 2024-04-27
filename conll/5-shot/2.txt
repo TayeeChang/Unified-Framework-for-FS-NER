@@ -1,0 +1,8 @@
+["Seven Iraqi men appeared in court on Saturday charged with air piracy following the hijacking to Britain of a Sudanese airliner with 199 people aboard .", [6, 10, "MISC"], [97, 103, "LOC"], [110, 117, "MISC"]]
+["The domestic Yonhap news agency said the South Korean government would consider the northern demand only if the North accepted Seoul 's requests , which include regular reunions of families split by the Korean War .", [13, 18, "ORG"], [41, 52, "MISC"], [112, 116, "LOC"], [127, 131, "LOC"], [203, 208, "MISC"]]
+["The group , which operates in Hungary , Poland and the Czech Republic , reported an operating profit before interest of 21.8 million French francs compared to 34.1 million in the same six months of 1995 .", [30, 36, "LOC"], [40, 45, "LOC"], [55, 68, "LOC"], [133, 138, "MISC"]]
+["\" We must obtain a formal commitment from ( Air France chairman ) Christian Blanc that no plane , no personnel be used to transform our air companies into charters of shame , \" CFDT spokesman Francois Cabrera said .", [44, 53, "ORG"], [66, 80, "PER"], [177, 180, "ORG"], [192, 207, "PER"]]
+["ATLANTA 83 49 .629 -", [0, 6, "ORG"]]
+["ATLANTA 84 50 .627 -", [0, 6, "ORG"]]
+["3. Ato Boldon ( Trinidad ) 20.37", [3, 12, "PER"], [16, 23, "LOC"]]
+["Rodriguez 's 18th homer , off Chad Ogea ( 7-5 ) in the first , gave Texas a 2-0 lead .", [0, 8, "PER"], [30, 38, "PER"], [68, 72, "LOC"]]

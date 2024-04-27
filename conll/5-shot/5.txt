@@ -1,0 +1,8 @@
+["Analysts said Wall Street had grown accustomed to a moderate Republican in the form of Democratic President Clinton .", [14, 24, "LOC"], [61, 70, "MISC"], [87, 96, "MISC"], [108, 114, "PER"]]
+["Watched by an array of former Olympic sprint champions at the Berlin grand prix meeting , Mitchell made a brilliant start in the 100 metres and held off Bailey 's strong finish to win in 10.08 seconds despite cool conditions .", [30, 36, "MISC"], [62, 67, "LOC"], [90, 97, "PER"], [153, 158, "PER"]]
+["Constand Viljoen , leader of the Freedom Front party , told a news conference in Pretoria self-determination for Afrikaners could begin at local government level .", [0, 15, "PER"], [33, 45, "ORG"], [81, 88, "LOC"], [113, 122, "MISC"]]
+["Panamanian boxing legend Roberto \" Hands of Stone \" Duran climbs into the ring on Saturday in another age-defying attempt to sustain his long career .", [0, 9, "MISC"], [25, 56, "PER"]]
+["CHICAGO AT TORONTO", [0, 6, "ORG"], [11, 17, "LOC"]]
+["TEXAS 76 58 .567 -", [0, 4, "ORG"]]
+["Marriner said that NATO troops had set up a checkpoint on the road between Tuzla and Mahala to establish the identities and intentions of the men headed towards the village .", [0, 7, "PER"], [19, 22, "ORG"], [75, 79, "LOC"], [85, 90, "LOC"]]
+["Singapore hanged a Thai farmer at Changi Prison on Friday for drug trafficking , the Central Narcotics Bureau ( CNB ) said .", [0, 8, "LOC"], [19, 22, "MISC"], [34, 46, "LOC"], [85, 108, "ORG"], [112, 114, "ORG"]]

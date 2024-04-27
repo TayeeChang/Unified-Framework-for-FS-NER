@@ -1,0 +1,5 @@
+["This guy needs his own show on Discivery Channel !", [31, 47, "corporation"]]
+["you gotta love the cavs ' camaraderie , it ' s great to see the big three gell , especially kevin love", [19, 22, "group"], [92, 96, "person"]]
+["that ' s dangerous report him to authorities they do not have access to the White House like that", [76, 86, "location"]]
+["Big fan of Ps 4 but cannot buy due to poorty . . plzzz help us . . . . for donation u r looking kind heart Person Contact 918295750515", [11, 14, "product"]]
+["Need the xman video with that sexy girl tho ! The one that read your fucked up mind !", [9, 18, "creative-work"]]

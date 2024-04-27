@@ -1,0 +1,6 @@
+["The hashtag took on a life of its own , and was used in messages on Twitter over one million times by Thursday night .", [0, 10, "abstract"], [30, 32, "abstract"], [56, 74, "abstract"], [81, 97, "quantity"], [102, 115, "time"]]
+["3 Store the basil in the refrigerator .", [8, 16, "plant"], [21, 36, "place"]]
+["\" When a chicken or another animal with this tendency becomes frightened , its heart rate lowers and it stops moving .", [7, 33, "animal"], [40, 52, "abstract"], [75, 88, "quantity"], [101, 102, "animal"]]
+["Bailey 's , orange vodka , bitters , and chocolate flakes .", [0, 8, "substance"], [12, 23, "substance"], [27, 33, "substance"], [41, 56, "object"]]
+["We go through a number of drafts and then have the editors pick it up and assign the photojournalism aspect of it to our graphic design team , who adds the visual aspect to it .", [0, 1, "person"], [14, 31, "abstract"], [47, 57, "person"], [64, 65, "abstract"], [81, 112, "abstract"], [117, 139, "organization"], [152, 168, "abstract"], [173, 174, "abstract"]]
+["Using this work arrangement , it forces you to take action , as you ca n't afford to waste any time . [ 2 ] .", [6, 26, "abstract"], [30, 31, "abstract"], [40, 42, "person"], [52, 57, "event"], [64, 66, "person"]]

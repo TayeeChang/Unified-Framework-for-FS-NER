@@ -1,0 +1,7 @@
+["Clinton said Iraqi military forces overran the city of Arbil , which has been held since 1994 by Kurdish rebels who Baghdad says are backed by Iran .", [0, 6, "PER"], [13, 17, "MISC"], [55, 59, "LOC"], [97, 103, "MISC"], [116, 122, "LOC"], [143, 146, "LOC"]]
+["Ruehe planned to meet his Israeli counterpart Yitzhak Mordechai and Israeli President Ezer Weizman , the ministry said .", [0, 4, "PER"], [26, 32, "MISC"], [46, 62, "PER"], [68, 74, "MISC"], [86, 97, "PER"]]
+["Rwandan refugee group calls for calm over census .", [0, 6, "MISC"]]
+["Melrose 107 Stirling County 10", [0, 6, "ORG"], [12, 19, "ORG"]]
+["In Seattle , Pete Incaviglia 's grand slam with one out in the sixth snapped a tie and lifted the Baltimore Orioles past the Seattle Mariners , 5-2 .", [3, 9, "LOC"], [13, 27, "PER"], [98, 114, "ORG"], [125, 140, "ORG"]]
+["Although supposedly aimed at criminals , dozens of human rights activists have been detained in the campaign , which is meant to strengthen the Communist Party 's grip on power as senior leader Deng Xiaoping nears death , Xiao said in an interview .", [144, 158, "ORG"], [194, 206, "PER"], [222, 225, "PER"]]
+["1993 - Six former Soviet republics , Russia , Belarus , Kazakhstan , Uzbekistan , Armenia and Tajikistan , signed framework agreement to keep the Russian rouble as their common currency .", [18, 23, "MISC"], [37, 42, "LOC"], [46, 52, "LOC"], [56, 65, "LOC"], [69, 78, "LOC"], [82, 88, "LOC"], [94, 103, "LOC"], [146, 152, "MISC"]]
