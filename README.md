@@ -19,6 +19,8 @@ For the FEW-NERD datasets, you can refer to the [data source](https://github.com
 Due to the large size of the dataset, for each episode, we here afford one example to show the data format we use.
 For more episodes, you can download them from the source above.
 
+All test datasets are from the official hold-out datasets. You can download by yourself.
+
 Some data sets are not publicly available, please obtain permission before use.
 
 ## Checkpoint
